@@ -5,10 +5,10 @@
 ## Тема: групповые расходы
 
 - Основная страница
-![](dashboard.png)
+![](dashboard_with_tags.png)
 
 - Последняя активность
-![](recentactivity.png)
+![](recentactivity_with_tags.png)
 
 - Авторизация
 ![](login.png)
